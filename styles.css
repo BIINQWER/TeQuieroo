@@ -21,6 +21,7 @@ body {
   }
   
   #menu-toggle {
+    color: #fff;
     display: block;
     position: fixed;
     top: 20px;
